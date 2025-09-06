@@ -6,9 +6,6 @@ Per avviare il progetto in locale, segui questi passaggi:
 
 ```bash
 sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/progetto1.conf
-```
-
-```bash
 sudo nano /etc/apache2/sites-available/progetto1.conf
 ```
 
