@@ -9,7 +9,6 @@ sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-availab
 ```
 
 ```bash
-npm install -g expo-cli
 sudo nano /etc/apache2/sites-available/progetto1.conf
 ```
 
